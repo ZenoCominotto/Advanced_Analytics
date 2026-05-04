@@ -9,6 +9,11 @@ Deze repository bevat:
 - de gegenereerde resultaten in `results/`
 - een korte samenvatting in `report.pdf` of hieronder
 
+## Task 2:
+De dataset is niet opgenomen in deze GitHub-repository omdat ze ongeveer 2 GB groot is.
+
+
+
 ## Belangrijkste resultaten
 
 [Schrijf hier kort wat de prof moet bekijken.]
